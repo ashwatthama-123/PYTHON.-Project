@@ -92,35 +92,53 @@ Missing Values: Only a few in TotalCharges due to blank entries, handled via typ
 ---
 
 **📈 Plots & Visuals Used**
--📌 Count plots for gender, partner, dependents, contract
--📌 Pie charts for churn proportion and senior citizen breakdown
--📌 Stacked bar charts to show churn percentage among groups
--📌 Histograms for tenure and monthly charges distributions
--📌 Grouped bar charts for multi-variable comparisons
+
+📌 Count plots for gender, partner, dependents, contract
+
+📌 Pie charts for churn proportion and senior citizen breakdown
+
+📌 Stacked bar charts to show churn percentage among groups
+
+📌 Histograms for tenure and monthly charges distributions
+
+📌 Grouped bar charts for multi-variable comparisons
 
 **All visuals use a custom color palette and annotations for better interpretation.**
 
 **📌 Key Insights**
--💡 Early intervention is critical — churn peaks in early tenure.
--💡 Senior citizens and customers without dependents/partners are high risk.
--💡 Month-to-month contracts and electronic check payment correlate with high churn.
--💡 Service combinations and billing methods are strong indicators of churn.
+
+💡 Early intervention is critical — churn peaks in early tenure.
+
+💡 Senior citizens and customers without dependents/partners are high risk.
+
+💡 Month-to-month contracts and electronic check payment correlate with high churn.
+
+💡 Service combinations and billing methods are strong indicators of churn.
+
+--- 
 
 📦 Folder Structure
+
 bash
 Copy
 Edit
 Telecom-Churn-Analysis/
 │
-├── telecom_churn_analysis.ipynb      # Jupyter notebook (analysis + visualizations)
-├── README.md                         # Project documentation (this file)
-├── churn_visuals/                    # Exported graphs and images
-├── data/
-│   └── customer_churn.csv            # Dataset file
-└── assets/
-    └── churn_dashboard.png           # Summary or dashboard screenshots
+-**├── telecom_churn_analysis.ipynb      # Jupyter notebook (analysis + visualizations)**
 
-👤 Vishal Porla
-Aspiring Data Analyst skilled in Python, Power BI, Advanced Excel, and SQL
+-**├── README.md                         # Project documentation (this file)**
+
+-**├── churn_visuals/                    # Exported graphs and images**
+
+-**├── data/**
+
+-**│   └── customer_churn.csv            # Dataset file**
+
+-**└── assets/**
+    
+**└── churn_dashboard.png           # Summary or dashboard screenshots**
+
+## 👤 Vishal Porla
+## Aspiring Data Analyst skilled in Python, Power BI, Advanced Excel, and SQL
 
 **📊 THANKYOU FOR VIEWING❤️**
