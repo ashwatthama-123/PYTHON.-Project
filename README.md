@@ -12,3 +12,19 @@ identify risk patterns, reduce customer attrition, and improve service quality.
 | Matplotlib       | Static plotting                  |
 | Seaborn          | Statistical data visualization   |
 | Jupyter Notebook | Interactive coding environment   |
+
+📥 Dataset Overview
+The dataset consists of 7,043 telecom customer records with 21 columns related to customer demographics, services subscribed, and billing information.
+
+✅ Key Columns:
+customerID: Unique customer identifier
+
+gender, SeniorCitizen, Partner, Dependents: Demographic details
+
+PhoneService, MultipleLines, InternetService, OnlineSecurity, etc.: Services
+
+Contract, PaperlessBilling, PaymentMethod: Billing terms
+
+tenure, MonthlyCharges, TotalCharges: Duration and cost
+
+Churn: Target variable (Yes/No)
