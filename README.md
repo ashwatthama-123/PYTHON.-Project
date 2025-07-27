@@ -103,9 +103,13 @@ Missing Values: Only a few in TotalCharges due to blank entries, handled via typ
 
 📌 Grouped bar charts for multi-variable comparisons
 
+--- 
+
 **All visuals use a custom color palette and annotations for better interpretation.**
 
-**📌 Key Insights**
+---
+
+**Key Insights**
 
 💡 Early intervention is critical — churn peaks in early tenure.
 
@@ -116,27 +120,6 @@ Missing Values: Only a few in TotalCharges due to blank entries, handled via typ
 💡 Service combinations and billing methods are strong indicators of churn.
 
 --- 
-
-📦 Folder Structure
-
-bash
-Copy
-Edit
-Telecom-Churn-Analysis/
-│
--**├── telecom_churn_analysis.ipynb      # Jupyter notebook (analysis + visualizations)**
-
--**├── README.md                         # Project documentation (this file)**
-
--**├── churn_visuals/                    # Exported graphs and images**
-
--**├── data/**
-
--**│   └── customer_churn.csv            # Dataset file**
-
--**└── assets/**
-    
-**└── churn_dashboard.png           # Summary or dashboard screenshots**
 
 ## 👤 Vishal Porla
 ## Aspiring Data Analyst skilled in Python, Power BI, Advanced Excel, and SQL
