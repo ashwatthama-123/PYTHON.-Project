@@ -1,7 +1,9 @@
 # 📊 Telecom Customer Churn Analysis
-📁 Project Title: Churn Analysis of Telecom Customers using Python
+
 📌 Objective
-The objective of this project is to analyze and understand customer churn behavior within a telecom company using Python and data visualization libraries. This insight will help the business identify risk patterns, reduce customer attrition, and improve service quality.
+The objective of this project is to analyze and understand customer churn behavior within a telecom company using Python and data visualization libraries. This insight will help the business 
+
+identify risk patterns, reduce customer attrition, and improve service quality.
 | Tool             | Purpose                          |
 | ---------------- | -------------------------------- |
 | Python           | Data analysis and scripting      |
