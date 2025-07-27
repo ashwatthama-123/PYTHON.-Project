@@ -92,19 +92,19 @@ Missing Values: Only a few in TotalCharges due to blank entries, handled via typ
 ---
 
 **📈 Plots & Visuals Used**
-📌 Count plots for gender, partner, dependents, contract
-📌 Pie charts for churn proportion and senior citizen breakdown
-📌 Stacked bar charts to show churn percentage among groups
-📌 Histograms for tenure and monthly charges distributions
-📌 Grouped bar charts for multi-variable comparisons
+-📌 Count plots for gender, partner, dependents, contract
+-📌 Pie charts for churn proportion and senior citizen breakdown
+-📌 Stacked bar charts to show churn percentage among groups
+-📌 Histograms for tenure and monthly charges distributions
+-📌 Grouped bar charts for multi-variable comparisons
 
-All visuals use a custom color palette and annotations for better interpretation.
+**All visuals use a custom color palette and annotations for better interpretation.**
 
 **📌 Key Insights**
-💡 Early intervention is critical — churn peaks in early tenure.
-💡 Senior citizens and customers without dependents/partners are high risk.
-💡 Month-to-month contracts and electronic check payment correlate with high churn.
-💡 Service combinations and billing methods are strong indicators of churn.
+-💡 Early intervention is critical — churn peaks in early tenure.
+-💡 Senior citizens and customers without dependents/partners are high risk.
+-💡 Month-to-month contracts and electronic check payment correlate with high churn.
+-💡 Service combinations and billing methods are strong indicators of churn.
 
 📦 Folder Structure
 bash
