@@ -42,9 +42,9 @@ Missing Values: Only a few in TotalCharges due to blank entries, handled via typ
 ---
 
 ## 📊 Visual Analysis & Findings
--1. Churn Distribution
--Churned customers: ~26%
--Pie and bar plots used to represent percentage split
+--1. Churn Distribution
+--Churned customers: ~26%
+--Pie and bar plots used to represent percentage split
 
 -2. Gender vs Churn
 -Both genders have similar churn rates
